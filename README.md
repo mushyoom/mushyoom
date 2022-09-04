@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="myImage" align="center">
  <img src="https://github.com/mushyoom/mushyoom/blob/main/notion-avatar-1656000616202.png", width="150",height="150",border-radius="50%"/>
 </div>
@@ -20,13 +18,12 @@
   </a>
 </div>
 
-Hi there
 ## 🌻 About me
 - I’m working as a software enginner and contributing to fontend and backend for building mobile applications.
 - In my free time, I also create mobile and web applications for fun.
 - I have released a app production in Apple store. (avalible soon in Andriod)
 - I’m fluent in Japanese,  Mandarin and Cantonese, also using English in business situation.
-- You can reach me at: [shyann.dev@gmail.com](mailto:shyann.dev@gmail.com)
+- You can reach me at: [email](mailto:shyann.dev@gmail.com) or [slack](https://mashyann.slack.com/join/shared_invite/zt-1fs350zu8-~C~xVA78EfDXmOdBBJXnqw#/shared-invite/email)
 
 
 ## ⛏️ Languages
