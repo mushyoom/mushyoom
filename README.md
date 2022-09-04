@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/005/877/575/non_2x/programmer-working-modern-flat-concept-for-web-banner-design-woman-writes-code-programs-on-computer-screen-tests-and-optimizes-software-in-office-illustration-with-isolated-people-scene-vector.jpg" width="800"/>
+<div id="myImage" align="center">
+ <img src="https://github.com/mushyoom/mushyoom/blob/main/notion-avatar-1656000616202.png", width="150",height="150",border-radius="50%"/>
 </div>
+<br>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://shyann-projectsandblog.herokuapp.com/">
     <img src="https://img.shields.io/badge/Blog & Portfolio-green?style=for-the-badge&logo=blog&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -64,4 +65,7 @@ Hi there
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mushyoom)](https://github.com/anuraghazra/github-readme-stats)
 
+<div id="bottom" align="center">
+  <img src="https://static.vecteezy.com/system/resources/previews/005/877/575/non_2x/programmer-working-modern-flat-concept-for-web-banner-design-woman-writes-code-programs-on-computer-screen-tests-and-optimizes-software-in-office-illustration-with-isolated-people-scene-vector.jpg" width="800"/>
+</div>
 
