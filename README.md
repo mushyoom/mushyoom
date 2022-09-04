@@ -20,40 +20,48 @@
 </div>
 
 Hi there
-
+## 🌻 About me
 - I’m working as a software enginner and contributing to fontend and backend for building mobile applications.
-- In my free time, I also create mobile and web applications by myself.
-- I have release a app production in Apple store. (avalible soon in Andriod)
-- How to reach me: [shyann.dev@gmail.com](mailto:shyann.dev@gmail.com)
+- In my free time, I also create mobile and web applications for fun.
+- I have released a app production in Apple store. (avalible soon in Andriod)
+- I’m fluent in Japanese,  Mandarin and Cantonese, also using English in business situation.
+- You can reach me at: [shyann.dev@gmail.com](mailto:shyann.dev@gmail.com)
 
 
-### ⛏️  Programming Languages and Tools
+## ⛏️ Languages
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<img src="https://img.icons8.com/color/480/dart.png" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png"  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
-<!--
-**mushyoom/mushyoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 **Frameworks**
+<div>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+	<img src="https://1109027409-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfEyTpGMamuAjfWqnPxRR%2Ficon%2F2HFJJ0ym4oCvxmTdeadl%2Fnestjs_logo_icon_168087.png?alt=media&token=25ea37e7-59c6-4998-8b12-63df15a252f9" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+</div>
 
-Here are some ideas to get you started:
+## 💻 **Others**
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://icons-for-free.com/iconfiles/png/512/mongodb+plain+wordmark-1324760553130770870.png" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://icons-for-free.com/download-icon-svg+google+icon-1320183320582763826_256.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
+	<img src="https://www.consoleconnect.com/wp-content/uploads/2019/07/amazon-web-services-cloud.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" **alt="Postman" width="40" height="40"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mushyoom&theme=ayu-light)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mushyoom&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mushyoom)](https://github.com/anuraghazra/github-readme-stats)
+
+
