@@ -1,7 +1,8 @@
 <div id="myImage" align="center">
  <img src="https://github.com/mushyoom/mushyoom/blob/main/notion-avatar-1656000616202.png", width="150",height="150",border-radius="50%"/>
 </div>
-<br>
+
+<p align="center">💪🏻 I like programming and learning by doing.</p>
 
 <div id="badges" align="center">
   <a href="https://shyann-projectsandblog.herokuapp.com/">
