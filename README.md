@@ -24,6 +24,7 @@
 - In my free time, I also create mobile and web applications for fun.
 - I have released an app production in the [Apple store](https://apps.apple.com/jp/app/%E5%AE%B6%E8%B3%83%E8%A8%88%E7%AE%97%E3%81%8F%E3%82%93/id1639672252) . (coming soon in Andriod)
 - I’m fluent in Japanese,  Mandarin and Cantonese, also use English in business situations(Mainly in writing and reading).
+- On a personal level, I am passionate about tech, history, music, piano, and watching football.
 - You can reach me at: [email](mailto:shyann.dev@gmail.com) or [slack](https://mashyann.slack.com/join/shared_invite/zt-1fs350zu8-~C~xVA78EfDXmOdBBJXnqw#/shared-invite/email)
 
 
