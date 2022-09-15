@@ -42,6 +42,7 @@
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Kz7xjVdmBLY4kkHjlEd186216wBJFYrVW9KzIgqwIg&s" title="Jinjia" alt="Jinjia" width="40" height="40"/>&nbsp;
 	<img src="https://1109027409-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfEyTpGMamuAjfWqnPxRR%2Ficon%2F2HFJJ0ym4oCvxmTdeadl%2Fnestjs_logo_icon_168087.png?alt=media&token=25ea37e7-59c6-4998-8b12-63df15a252f9" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
