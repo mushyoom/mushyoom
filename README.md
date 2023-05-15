@@ -65,7 +65,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mushyoom&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mushyoom)](https://github.com/anuraghazra/github-readme-stats)
+[![mushyoom's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushyoom)](https://github.com/anuraghazra/github-readme-stats)
+
+[![mushyoom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mushyoom)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="bottom" align="center">
   <img src="https://static.vecteezy.com/system/resources/previews/005/877/575/non_2x/programmer-working-modern-flat-concept-for-web-banner-design-woman-writes-code-programs-on-computer-screen-tests-and-optimizes-software-in-office-illustration-with-isolated-people-scene-vector.jpg" width="800"/>
