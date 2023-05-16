@@ -67,7 +67,7 @@
 
 [![mushyoom's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushyoom)](https://github.com/anuraghazra/github-readme-stats)
 
-[![mushyoom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mushyoom)](https://github.com/anuraghazra/github-readme-stats)
+[![mushyoom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mushyoom)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div id="bottom" align="center">
