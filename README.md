@@ -65,8 +65,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mushyoom&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
-[![mushyoom's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushyoom)](https://github.com/anuraghazra/github-readme-stats)
-
 [![mushyoom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mushyoom)](https://github.com/anuraghazra/github-readme-stats)
 
 
