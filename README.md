@@ -5,17 +5,11 @@
 <p align="center">💪🏻 I like programming and learning by doing.</p>
 
 <div id="badges" align="center">
-  <a href="https://shyann-projectsandblog.herokuapp.com/">
-    <img src="https://img.shields.io/badge/Blog & Portfolio-green?style=for-the-badge&logo=blog&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://github.com/mushyoom">
     <img src="https://img.shields.io/badge/Github-orange?style=for-the-badge&logo=github&logoColor=white" alt="Youtube Badge"/>
   </a>
    <a href="https://twitter.com/Shyann_hello">
     <img src="https://img.shields.io/badge/Twitter-1C9BEF?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1C9BEF" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shyann-ma-6ba097203/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
